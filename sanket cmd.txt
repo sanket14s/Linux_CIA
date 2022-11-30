@@ -1,0 +1,3 @@
+chmod 400 sanket.pem
+
+ssh -i "sanket.pem" ec2-user@ec2-65-2-152-215.ap-south-1.compute.amazonaws.com
